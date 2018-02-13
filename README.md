@@ -1,2 +1,2 @@
 # MSSQL
-MSSQL Server Scripts
+MSSQL Development
