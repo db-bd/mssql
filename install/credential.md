@@ -1,4 +1,5 @@
 ### Password
 ```sh
-nopass
+Windows: nopass
+Linux:   Nopass1234
 ```
