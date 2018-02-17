@@ -1,5 +1,9 @@
 ### Password
+* Windows
 ```sh
-Windows: nopass
-Linux:   Nopass1234
+nopass
+```
+* Linux
+```sh
+Nopass1234
 ```
