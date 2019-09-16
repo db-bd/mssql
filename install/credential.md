@@ -5,5 +5,5 @@ nopass
 ```
 * Linux
 ```sh
-Nopass1234
+nopass
 ```
